@@ -6,5 +6,7 @@ Addition animation export features for blender fbx
   -Export complete Scene as one file.\
   -Export all objects to one file per object.\
   -The fbx file sizes are smaller.\
-  -In Unity3d the animations will be linked to object.\
+  -In Unity3d the animations will be linked to object.
+  
+  ![picture](img/previewImg.png)
   
