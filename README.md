@@ -1,5 +1,5 @@
 # Blender Fbx Exporter
-Addition animation export features for blender fbx
+Additional export features for blender fbx. Works wiht 2.79b
 ## Features
   -Export animation actions only without object to one file per action.\
   -You can select actions from the tool list.\
@@ -9,4 +9,11 @@ Addition animation export features for blender fbx
   -In Unity3d the animations will be linked to object.
   
   ![picture](img/previewImg.png)
+  
+### Tasks:
+- [ ] Blender 2.8 support
+- [ ] Refactoring
+- [ ] Texture export
+
+
   
