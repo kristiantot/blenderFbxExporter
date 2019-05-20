@@ -16,4 +16,5 @@ Additional export features for blender fbx. Works wiht 2.79b
 - [ ] Texture export
 
 
-  
+## License
+[GPL](https://choosealicense.com/licenses/gpl-3.0/)
